@@ -1,5 +1,5 @@
 # awesome-glyco 
-(Still nder development ... 🏗️)
+(Still under development ... 🏗️)
 
 Community-curated list of software packages and data resources for Glycoscience [Contributions welcome](https://github.com/amanzadi/awesome-glyco/blob/main/CONTRIBUTING.md).
 
