@@ -21,8 +21,8 @@ This collection is inspired by [awesome-single-cell](https://github.com/seandavi
 - [CandyCrunch](https://github.com/BojarLab/CandyCrunch) - [python] - CandyCrunch is a package for predicting glycan structure from LC-MS/MS data. It contains the CandyCrunch model, along with the rest of the inference pipeline and downstream spectrum processing tools.
 
 ## Web portals and databases
-- [GlyCosmos](https://glycosmos.org/) - [webportal] - The GlyCosmos Portal is a Web portal aiming to integrate glycosciences with the life sciences. It consists of Standards, Repositories, and Data Resources, providing information about genes, proteins, lipids, pathways, and diseases. **Recommended**
-- [GlyGen](https://www.glygen.org/) - [webportal] -GlyGen is a data integration and dissemination project for carbohydrate and glycoconjugate-related data. GlyGen retrieves information from multiple international data sources and integrates and harmonizes this data.
+- [GlyCosmos](https://glycosmos.org/) - [webportal] - A web portal aiming to integrate glycosciences with the life sciences. It consists of Standards, Repositories, and Data Resources, providing information about genes, proteins, lipids, pathways, and diseases. **Recommended**
+- [GlyGen](https://www.glygen.org/) - [webportal] -A data integration and dissemination project for carbohydrate and glycoconjugate-related data. GlyGen retrieves information from multiple international data sources and integrates and harmonizes this data.
 
 ## Interactive visualization and analysis
 - [GlyConnect Compozitor](https://glyconnect.expasy.org/compozitor/) - [webserver] -Visualises glycan compositions as a network of relations of shared monosaccharides Outputs interactive graphs summarising information searched in the GlyConnect database.
