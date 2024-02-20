@@ -22,7 +22,8 @@ This collection is inspired by [awesome-single-cell](https://github.com/seandavi
 
 ## Web portals and databases
 - [GlyCosmos](https://glycosmos.org/) - [webportal] - A web portal aiming to integrate glycosciences with the life sciences. It consists of Standards, Repositories, and Data Resources, providing information about genes, proteins, lipids, pathways, and diseases. **Recommended**
-- [GlyGen](https://www.glygen.org/) - [webportal] -A data integration and dissemination project for carbohydrate and glycoconjugate-related data. GlyGen retrieves information from multiple international data sources and integrates and harmonizes this data.
+- [GlyGen](https://www.glygen.org/) - [webportal] -A data integration and dissemination project for carbohydrate and glycoconjugate-related data. GlyGen retrieves information from multiple international data sources and integrates and harmonizes this data.**Recommended**
+- [Glyco3D](https://glyco3d.cermav.cnrs.fr/) - [webportal] - Glyco3D is a portal of databases covering the three-dimensional features of monosaccharides, disaccharides, oligosaccharides (Conformations and NMR spectra), polysaccharides, glycosyltransferases, lectins, monoclonal antibodies against carbohydrates, and glycosaminoglycan binding proteins.
 
 ## Interactive visualization and analysis
 - [GlyConnect Compozitor](https://glyconnect.expasy.org/compozitor/) - [webserver] -Visualises glycan compositions as a network of relations of shared monosaccharides Outputs interactive graphs summarising information searched in the GlyConnect database.
