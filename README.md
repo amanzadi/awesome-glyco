@@ -17,8 +17,10 @@ This collection is inspired by [awesome-single-cell](https://github.com/seandavi
   - [Interactive visualization and analysis](#interactive-visualization-and-analysis)
 
 ## Software packages
-- [Glycowork](GlyCosmos) - [python] - Glycowork is a Python package specifically designed to simplify glycan sequence processing and analysis.
+- [Glycowork](https://github.com/BojarLab/glycowork) - [python] - Glycowork is a Python package specifically designed to simplify glycan sequence processing and analysis.
 - [CandyCrunch](https://github.com/BojarLab/CandyCrunch) - [python] - CandyCrunch is a package for predicting glycan structure from LC-MS/MS data. It contains the CandyCrunch model, along with the rest of the inference pipeline and downstream spectrum processing tools.
+- [GlycoSHIELD](https://gitlab.mpcdf.mpg.de/dioscuri-biophysics/glycoshield-md) - [python] - GlycoSHIELD is a simple MD pipeline to generate realistic glycoprotein models. A [web application](http://glycoshield.eu/) is available to try GlycoSHIELD in the Cloud.
+
 
 ## Web portals and databases
 - [GlyCosmos](https://glycosmos.org/) - [webportal] - A web portal aiming to integrate glycosciences with the life sciences. It consists of Standards, Repositories, and Data Resources, providing information about genes, proteins, lipids, pathways, and diseases. **Recommended**
