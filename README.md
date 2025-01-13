@@ -31,7 +31,7 @@ This collection is inspired by [awesome-single-cell](https://github.com/seandavi
 - [Glyco3D](https://glyco3d.cermav.cnrs.fr/) - [webportal] - Glyco3D is a portal of databases covering the three-dimensional features of monosaccharides, disaccharides, oligosaccharides (Conformations and NMR spectra), polysaccharides, glycosyltransferases, lectins, monoclonal antibodies against carbohydrates, and glycosaminoglycan binding proteins.
 - [GlycoCoO](https://github.com/glycoinfo/GlycoCoO/wiki) - [database] - Glycoconjugate Ontology (GlycoCoO) is a standard ontology for glycoconjugate data (glycoprotein/glycolipid structures, publication information, biological source information, experimental data).
 - [GlycoRDF](https://github.com/glycoinfo/GlycoRDF/wiki) - [database] - GlycoRDF is a standard representation for storing Glycomics data (glycan structures, publication information, biological source information, experimental data) in RDF.
-- []() -
+- [GlycoShape](https://glycoshape.org/) - [webportal/database] - GlycoShape is an OA database of glycans 3D structural data and information that can be downloaded or used with Re-Glyco to rebuild glycoproteins from the RCSB PDB or EMBL-EBI AlphaFold repositories.
 
 ## Interactive visualization and analysis
 - [GlyConnect Compozitor](https://glyconnect.expasy.org/compozitor/) - [webserver] -Visualises glycan compositions as a network of relations of shared monosaccharides Outputs interactive graphs summarising information searched in the GlyConnect database.
