@@ -22,6 +22,7 @@ This collection is inspired by [awesome-single-cell](https://github.com/seandavi
 - [GlycoSHIELD](https://github.com/GlycoSHIELD-MD/GlycoSHIELD-MD) - [python] - GlycoSHIELD is a simple MD pipeline to generate realistic glycoprotein models.
 - [GlyCONFORMER](https://github.com/IsabellGrothaus/GlyCONFORMER) - [python] - Code to generate N-glycan conformer strings based on torsion angle values.
 - [Glycosylator](https://github.com/ibmm-unibe-ch/glycosylator) - [python] - A versatile Python framework for the rapid modeling of glycans.
+- [Re-Glyco](https://github.com/Ojas-Singh/Re-Glyco) - [python] - The Python software re-glycosylates protein structures using MD simulation results from the glycoshape database. It takes alphafold protein structures as input and outputs modified structures with glycans added at appropriate sites. [online demo](https://glycoshape.org/reglyco)
 
 
 ## Web portals and databases
@@ -30,6 +31,7 @@ This collection is inspired by [awesome-single-cell](https://github.com/seandavi
 - [Glyco3D](https://glyco3d.cermav.cnrs.fr/) - [webportal] - Glyco3D is a portal of databases covering the three-dimensional features of monosaccharides, disaccharides, oligosaccharides (Conformations and NMR spectra), polysaccharides, glycosyltransferases, lectins, monoclonal antibodies against carbohydrates, and glycosaminoglycan binding proteins.
 - [GlycoCoO](https://github.com/glycoinfo/GlycoCoO/wiki) - [database] - Glycoconjugate Ontology (GlycoCoO) is a standard ontology for glycoconjugate data (glycoprotein/glycolipid structures, publication information, biological source information, experimental data).
 - [GlycoRDF](https://github.com/glycoinfo/GlycoRDF/wiki) - [database] - GlycoRDF is a standard representation for storing Glycomics data (glycan structures, publication information, biological source information, experimental data) in RDF.
+- []() -
 
 ## Interactive visualization and analysis
 - [GlyConnect Compozitor](https://glyconnect.expasy.org/compozitor/) - [webserver] -Visualises glycan compositions as a network of relations of shared monosaccharides Outputs interactive graphs summarising information searched in the GlyConnect database.
