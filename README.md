@@ -21,6 +21,7 @@ This collection is inspired by [awesome-single-cell](https://github.com/seandavi
 - [CandyCrunch](https://github.com/BojarLab/CandyCrunch) - [python] - CandyCrunch is a package for predicting glycan structure from LC-MS/MS data. It contains the CandyCrunch model, along with the rest of the inference pipeline and downstream spectrum processing tools.
 - [GlycoSHIELD](https://github.com/GlycoSHIELD-MD/GlycoSHIELD-MD) - [python] - GlycoSHIELD is a simple MD pipeline to generate realistic glycoprotein models.
 - [GlyCONFORMER](https://github.com/IsabellGrothaus/GlyCONFORMER) - [python] - Code to generate N-glycan conformer strings based on torsion angle values.
+- [Glycosylator](https://github.com/ibmm-unibe-ch/glycosylator) - [python] - A versatile Python framework for the rapid modeling of glycans.
 
 
 ## Web portals and databases
