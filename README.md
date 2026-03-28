@@ -17,6 +17,7 @@ This collection is inspired by [awesome-single-cell](https://github.com/seandavi
   - [Interactive visualization and analysis](#interactive-visualization-and-analysis)
 
 ## Software packages
+- [Glycoverse](https://github.com/glycoverse) - [R] - Glycoverse is a set of R pacakges that together form a comprehensive pipeline for glycomics and glycoproteomics data analysis.
 - [Glycowork](https://github.com/BojarLab/glycowork) - [python] - Glycowork is a Python package specifically designed to simplify glycan sequence processing and analysis.
 - [CandyCrunch](https://github.com/BojarLab/CandyCrunch) - [python] - CandyCrunch is a package for predicting glycan structure from LC-MS/MS data. It contains the CandyCrunch model, along with the rest of the inference pipeline and downstream spectrum processing tools.
 - [GlycoSHIELD](https://github.com/GlycoSHIELD-MD/GlycoSHIELD-MD) - [python] - GlycoSHIELD is a simple MD pipeline to generate realistic glycoprotein models.
