@@ -1,4 +1,4 @@
-![Awesome Glyco Ecosystem Header](banner.png)
+![Awesome Glyco Ecosystem Header](repo_banner.png)
 
 # awesome-glyco 
 
