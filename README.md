@@ -1,5 +1,12 @@
 # awesome-glyco 
 
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/amanzadi/awesome-glyco/blob/main/CONTRIBUTING.md)
+[![Last commit](https://img.shields.io/github/last-commit/amanzadi/awesome-glyco/main)](https://github.com/amanzadi/awesome-glyco/commits/main)
+[![GitHub stars](https://img.shields.io/github/stars/amanzadi/awesome-glyco.svg)](https://github.com/amanzadi/awesome-glyco/stargazers)
+
+
 Community-curated list of software packages and data resources for Glycoscience [Contributions welcome](https://github.com/amanzadi/awesome-glyco/blob/main/CONTRIBUTING.md).
 
 This collection is inspired by [awesome-single-cell](https://github.com/seandavi/awesome-single-cell).
