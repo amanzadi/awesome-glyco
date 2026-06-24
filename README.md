@@ -1,3 +1,5 @@
+![Awesome Glyco Ecosystem Header](banner.png)
+
 # awesome-glyco 
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
